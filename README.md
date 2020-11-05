@@ -1,4 +1,6 @@
 # Lebenslauf 
+![Alternativtext](C:\Users\Horatiu\Einkaufsliste\Horatiu_Martini_Lichtbild.jpg) 
+
 ## Persönliche Daten 
 > Name		Horatiu Martini 
 > Adresse	Luisenstrasse 22 78120 Furtwangen 	
