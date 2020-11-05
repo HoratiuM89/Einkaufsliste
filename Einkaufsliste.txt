@@ -1,5 +1,5 @@
 Einkaufsliste
 -Apfel
--Salami
+-Schinken
 -Käse
 -TKPizza
