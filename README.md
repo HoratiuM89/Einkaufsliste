@@ -1,5 +1,5 @@
 # Lebenslauf 
-![Alternativtext](C:\Users\Horatiu\Einkaufsliste\Horatiu_Martini_Lichtbild.jpg)] 
+![Alternativtext](\Horatiu_Martini_Lichtbild.jpg)] 
 
 ## Persönliche Daten 
 > Name		Horatiu Martini 
