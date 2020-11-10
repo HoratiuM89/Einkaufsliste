@@ -3,3 +3,6 @@ Einkaufsliste
 -Schinken
 -Käse
 -TKPizza
+-Brot
+-Milch
+
